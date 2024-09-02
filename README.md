@@ -1,6 +1,6 @@
 # Hi, This is Paranidharan Murugantham! 👋
 
-I'm currently working as a Intern at IISc, focusing on machine learning and DataOps. My work involves developing sophisticated chatbot functionality using retrieval-aided generation, fine-tuning, and GPT models. 
+I'm currently working as a Project associate at IISc, focusing on machine learning and DataOps. My work involves developing sophisticated chatbot functionality using retrieval-aided generation, fine-tuning, and GPT models. 
 
 
 ```
@@ -13,7 +13,7 @@ Web Development         : HTML5 | CSS3 | Javascript
 ```
 
 ## Professional Summary
-- *Research Assistant* | IISc (03/06/2024 - Present)
+- *Intern* | IISc (03/06/2024 - 03/08/2024)
   - Collaborated with a multidisciplinary team in the implementation and optimization of various machine learning algorithms and pipelines.
   - Researching and participating in various experimental neural network architectures to improve robustness and model performance.
   - Implemented best practices of DataOps and MLOps for efficient deployment and management of machine learning models and data pipelines.
