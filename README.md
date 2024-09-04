@@ -1,4 +1,4 @@
-# Hi, This is Paranidharan Murugantham! 👋
+# Hi, I am Paranidharan Murugantham
 
 I'm currently working as a Project associate at IISc, focusing on machine learning and DataOps. My work involves developing sophisticated chatbot functionality using retrieval-aided generation, fine-tuning, and GPT models. 
 
