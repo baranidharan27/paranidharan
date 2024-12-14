@@ -56,5 +56,5 @@ Web Development         : HTML5 | CSS3 | Javascript
 ## Contact
 - *Email:* [baranidharan759@gmail.com](mailto:baranidharan759@gmail.com)
 - *LinkedIn:* [linkedin.com/in/parani-dharan-17a197245](http://www.linkedin.com/in/parani-dharan-17a197245)
-- *Portfolio* [portfolio]((https://paranidharan.netlify.app/))
+- *Portfolio* [portfolio](https://paranidharan.netlify.app/)
 
