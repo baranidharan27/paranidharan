@@ -13,7 +13,7 @@ Web Development         : HTML5 | CSS3 | Javascript
 ```
 
 ## Professional Summary
-- *Project Associate* | IISc (03/08/2024 - Current)
+- *Project Associate* | IISc (03 /08/2024 - Current)
   - Proficient in clustering and classification techniques with experience in implementing machine learning models for data segmentation and predictive analysis
 - *Intern* | IISc (03/06/2024 - 03/08/2024)
   - Collaborated with a multidisciplinary team in the implementation and optimization of various machine learning algorithms and pipelines.
