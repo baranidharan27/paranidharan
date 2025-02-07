@@ -4,7 +4,7 @@ I'm currently working as a Project associate at IISc, focusing on machine learni
 
 
 ```
-Programming language    : Python
+Programming language    : Python , C,
 ML                      : Tensorflow | keras | sklearn | Pandas
 Build & Version Control : Git 
 DevOps                  : AWS | docker | MongoDBAtlas | Celery-redis
